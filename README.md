@@ -64,7 +64,7 @@ flask run
 此网站主要包含导航、页脚、Banner、favicon.
 导航包括：
 Home（主页，简要介绍永州市的代表建筑和美食）；
-![Home 图标](https://github.com/webtestings/Flask-exercise/blob/main/web1.png)
+![Home 图标](https://github.com/webtestings/Flask-exercise/blob/main/home.jpg)
 About（详细介绍了永州市的代表名胜，如：柳子庙、零陵古城、九嶷山、舜帝陵庙、紫霞岩、斑竹林、三分石，以及血鸭的具体做法）；
 ![About 图标](https://github.com/webtestings/Flask-exercise/blob/main/web1.png)
 Video（一些关于永州市的风景视频）；
