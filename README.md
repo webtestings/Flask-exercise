@@ -8,7 +8,6 @@
 * [项目布局](#jump3)
 * [运行](#jump4)
 * [贡献](#jump5)
-*
 ----
 ## <span id="jump1">1. 项目简介</span>
 该项目是一个创建一个名字为“Flaskr”的基本博客应用程序。用户将能够注册、登录、创建帖子，
@@ -17,8 +16,10 @@
 ![web1 图标](https://github.com/webtestings/Flask-exercise/blob/main/web1.png)
 
 ## <span id="jump2">2. 安装</span>
-配置Python虚拟环境
-`. venv/bin/activate`
+配置Python虚拟环境  
+
+`. venv/bin/activate`   
+
 `python3 -m venv venv`
 
 安装flask
