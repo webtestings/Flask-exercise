@@ -13,6 +13,7 @@
 ### <span id="jump1">1. 项目简介</span>
 该项目是一个创建一个名字为“Flaskr”的基本博客应用程序。用户将能够注册、登录、创建帖子，
 也能编辑或删除自己的帖子。
+![web1 图标](http://static.runoob.com/images/runoob-logo.png)
 
 ### <span id="jump2">2. 安装</span>
 首先安装flask
