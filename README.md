@@ -66,13 +66,13 @@ flask run
 Home（主页，简要介绍永州市的代表建筑和美食）；
 ![Home 图标](https://github.com/webtestings/Flask-exercise/blob/main/home.jpg)
 About（详细介绍了永州市的代表名胜，如：柳子庙、零陵古城、九嶷山、舜帝陵庙、紫霞岩、斑竹林、三分石，以及血鸭的具体做法）；
-![About 图标](https://github.com/webtestings/Flask-exercise/blob/main/web1.png)
+![About 图标](https://github.com/webtestings/Flask-exercise/blob/main/about.jpg)
 Video（一些关于永州市的风景视频）；
-![Video 图标](https://github.com/webtestings/Flask-exercise/blob/main/web1.png)
+![Video 图标](https://github.com/webtestings/Flask-exercise/blob/main/video.jpg)
 Blog（一些人写的关于永州市的一些风景和美食的博客）；
-![Blog 图标](https://github.com/webtestings/Flask-exercise/blob/main/web1.png)
+![Blog 图标](https://github.com/webtestings/Flask-exercise/blob/main/blog.jpg)
 Author（写博客的人的人物介绍）。
-![Author 图标](https://github.com/webtestings/Flask-exercise/blob/main/web1.png)
+![Author 图标](https://github.com/webtestings/Flask-exercise/blob/main/author.jpg)
 页脚主要有制作团队和关于湖南永州市的介绍链接。
 
 
