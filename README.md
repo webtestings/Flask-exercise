@@ -7,7 +7,7 @@
 * [安装](#jump2)
 * [用法](#jump3)
 * []
-* [install]
+* []
 *
 ----
 ### <span id="jump1">1. 项目简介</span>
@@ -29,4 +29,6 @@ export FLASK_ENV=development
 ### <span id="jump4">4. 目录1</span>
 
 ### 贡献
-[Winnie0323](https://github.com/winnie0323)
+[王雨婷](https://github.com/winnie0323)
+[奉敏燕](https://github.com/Mint123673)
+[黄梦迪](https://github.com/luck581)
